@@ -3,7 +3,6 @@
 
 Ниже представлены проекты. Из названий будет понятно их содержимое   
 
-[Написать в ТГ](https://t.me/Ilyakoltcov)
-[![Telegram](https://flaticon.com)]
-
+Связаться со мной:  
+  [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ilyakoltcov)
 
