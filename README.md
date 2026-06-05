@@ -6,4 +6,4 @@
 Связаться со мной:  
   [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ilyakoltcov)
 
-[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/Frenz00)
+[![Codewars](https://www.codewars.com/users/Frenz00/badges/large)](https://www.codewars.com/users/Frenz00)
